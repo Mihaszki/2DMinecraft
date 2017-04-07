@@ -1,0 +1,6 @@
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\bin\x86\Release\2DMinecraft.exe.config
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\bin\x86\Release\2DMinecraft.exe
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\bin\x86\Release\2DMinecraft.pdb
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\obj\x86\Release\2DMinecraft.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\obj\x86\Release\2DMinecraft.exe
+C:\Users\User\Dropbox\2DMinecraft\2DMinecraft\obj\x86\Release\2DMinecraft.pdb
