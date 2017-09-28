@@ -12,7 +12,3 @@
 - Q - Change mode (movement, mining and building)
 - E - Change item (wood, stone)
 - ESC - Save and exit
-
-# Author
-
-Author: Paweł Michalski. <pawelmichalski9@gmail.com>
