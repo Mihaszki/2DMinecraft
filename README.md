@@ -1,6 +1,6 @@
 # 2DMinecraft
 
-2D Minecraft - is a very simple minecraft, but in 2D. The game contains a day/night cycle, mining and building. It's console app.
+This game is similar to Minecraft but simpler. The game contains a day/night cycle, mining and building. It's console app.
 
 # Presentation
 
@@ -12,3 +12,4 @@
 - Q - Change mode (movement, mining and building)
 - E - Change item (wood, stone)
 - ESC - Save and exit
+
