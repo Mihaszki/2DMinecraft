@@ -1,5 +1,7 @@
 # 2DMinecraft
 
+![Preview](preview.png)
+
 This game is similar to Minecraft but simpler. The game contains a day/night cycle, mining and building. It's console app.
 
 # Presentation
